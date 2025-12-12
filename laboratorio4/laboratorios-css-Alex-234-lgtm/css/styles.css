@@ -1,0 +1,36 @@
+/* Los estilos se aplican a todo el documento */
+body {
+color: rgb(236, 239, 241);
+background-color: rgb(151, 140, 140);
+background-image: url('../assets/R.jpeg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-image: linear-gradient(135deg, rgba(190, 139, 28, 0.5), rgba(99, 0, 0, 0.5)),
+
+
+} 
+img.icon {
+  border-radius: 25%;
+  border: 2px solid rgb(255, 255, 255);
+  width: 25px;
+  height: 25px;
+  
+}
+img.Foto {
+  border-radius: 50%;
+  border: 2px solid rgb(255, 255, 255);
+  width: 200px;
+  height: 200px;
+  
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(39, 39, 39 ,50%);
+    color: white;
+          
+}
+ 
+      
